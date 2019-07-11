@@ -1,0 +1,1 @@
+To use this repo its necessary to install tesseract and the python libraries given in the requirements.txt file
